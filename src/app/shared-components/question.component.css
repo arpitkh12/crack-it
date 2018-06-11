@@ -10,3 +10,5 @@
   .question-selected-value {
     margin: 15px 0;
   }
+.app_correct {border-style: solid; border-color:green;}
+.app_wrong {border-style: solid; border-color:red;}
