@@ -1,0 +1,12 @@
+.question-radio-group {
+    display: inline-flex;
+    flex-direction: column;
+  }
+  
+  .question-radio-button {
+    margin: 5px;
+  }
+  
+  .question-selected-value {
+    margin: 15px 0;
+  }

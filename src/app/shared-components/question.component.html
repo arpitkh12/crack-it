@@ -1,0 +1,6 @@
+<mat-radio-group class="question-radio-group">
+    <mat-radio-button class="question-radio-button" *ngFor="let val of options" [value]="val">
+        {{val}}
+    </mat-radio-button>
+</mat-radio-group>
+<div class="question-selected-value">Your favorite season is:</div>
