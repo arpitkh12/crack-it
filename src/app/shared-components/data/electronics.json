@@ -1,0 +1,52 @@
+	[
+        {
+            "question": "The output will be a LOW for any case when one or more inputs are zero in a(n):",
+            "options": [
+                "OR gate",
+                "NOT gate",
+                "AND gate",
+                "NAND gate"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "If a signal passing through a gate is inhibited by sending a low into one of the inputs, and the output is HIGH, the gate is a(n):",
+            "options": [
+                "AND",
+                "NAND",
+                "NOR",
+                "OR"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "A single transistor can be used to build which of the following digital logic gates?",
+            "options": [
+                "AND gates",
+                "OR gates",
+                "NOT gates",
+                "NAND gates"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "The logic gate that will have HIGH or \"1\" at its output when any one of its inputs is HIGH is a(n):",
+            "options": [
+                "OR gate",
+                "AND gate",
+                "NOR gate",
+                "NOT gate"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "How many NAND circuits are contained in a 7400  NAND IC?",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "8"
+            ],
+            "answer": "C"
+        }
+    ]

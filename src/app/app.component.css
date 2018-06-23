@@ -1,0 +1,26 @@
+.docs-navbar-header[_ngcontent-c1] {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 8px 16px;
+}
+ .docs-navbar, .docs-navbar-header {
+    background:#1BBD36;
+}
+.docs-button
+{
+    color: white !important;
+    font-weight: bold;
+    margin-left: 1%;
+}
+.navBar
+{
+    padding-top:1%;
+}
+.questionsLayout
+{
+    margin-left: 2%;
+}
+#pageLayout img {
+    margin-left: 2%;
+}

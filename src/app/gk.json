@@ -1,0 +1,163 @@
+[		
+	{
+		"question": "Who invented the BALLPOINT PEN?",
+		"options": [
+			"Biro Brothers",
+			"Waterman Brothers",
+			"Bicc Brothers",
+			"Write Brothers"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "In which decade was the first solid state integrated circuit demonstrated?",
+		"options": [
+			"1950s",
+			"1960s",
+			"1970s",
+			"1980s"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "What J. B. Dunlop invented?",
+		"options": [
+			"Pneumatic rubber tire",
+			"Automobile wheel rim",
+			"Rubber boot",
+			"Model airplanes"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "Which scientist discovered the radioactive element radium?",
+		"options": [
+			"Isaac Newton",
+			"Albert Einstein",
+			"Benjamin Franklin",
+			"Marie Curie"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "When was barb wire patented?",
+		"options": [
+			"1874",
+			"1840",
+			"1895",
+			"1900"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "What is the name of the CalTech seismologist who invented the scale used to measure the magnitude of earthquakes?",
+		"options": [
+			"Charles Richter",
+			"Hiram Walker",
+			"Giuseppe Mercalli",
+			"Joshua Rumble"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "What Galileo invented?",
+		"options": [
+			"Barometer",
+			"Pendulum clock",
+			"Microscope",
+			"Thermometer"
+		],
+		"answer": "A"
+	},
+	{
+		"question": "This statesman, politican, scholar, inventor, and one of early presidents of USA invented the swivel chair, the spherical sundial, the moldboard plow, and the cipher wheel.",
+		"options": [
+			"George Washington",
+			"Alexander Hamilton",
+			"John Adams",
+			"Thomas Jefferson"
+		],
+		"answer": "A"
+	}
+		
+	{
+		"question": "Who invented Bakelite?",
+		"options": [
+			"Charles Goodyear",
+			"Leo Hendrik Baekeland",
+			"Roy Plunkett",
+			"Henry Ford"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "What toy was invented by Joshua Lionel Cowen around 1900?",
+		"options": [
+			"Raggedy Ann doll",
+			"Yo-yo",
+			"Electric train",
+			"Tinkertoys"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "This African-American woman physical therapist worked with soldiers disabled in World War II. She invented a device that helped the disabled to eat by delivering food through a tube to a mouthpiece.",
+		"options": [
+			"Bessie Blount",
+			"Marjorie Joyner",
+			"Mae Jamison",
+			"Beulah Henry"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "What invention by Garnet Carter made its debut at the Fairyland Inn Resort in Lookout Mountain, Tennessee, in 1927?",
+		"options": [
+			"Miniature golf",
+			"Swimming pool slide",
+			"Ski lift",
+			"Golf cart"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "Who invented the phonograph?",
+		"options": [
+			"Thomas Edison",
+			"John Kruesi",
+			"Jules Levy",
+			"Alexander Graham Bell"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "What beverage was invented by Charles Alderton in 1885 in Waco, Texas?",
+		"options": [
+			"Cream soda",
+			"Coca-Cola",
+			"Dr. Pepper",
+			"Sprite"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "Who invented fuel cells in 1839?",
+		"options": [
+			"Buckminster Fuller",
+			"Sir William Grove",
+			"Sylvester Graham",
+			"Joyce Hall"
+		],
+		"answer": "B"
+	},
+	{
+		"question": "The ELECTRIC BATTERY, who's charged with inventing this one?",
+		"options": [
+			"Hertz",
+			"Amper",
+			"Galvani",
+			"Volta"
+		],
+		"answer": "B"
+	}
+]

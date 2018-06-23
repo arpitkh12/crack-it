@@ -1,0 +1,52 @@
+	[
+        {
+            "question": null,
+            "options": [
+                "\"I am a boy\\r\\n\\0\"",
+                "\"I am a boy\\r\\0\"",
+                "\"I am a boy\\n\\0\"",
+                "\"I am a boy\""
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "open \"source.txt\" in binary mode for reading",
+                "open \"source.txt\" in binary mode for reading and writing",
+                "Create a new file \"source.txt\" for reading and writing",
+                "None of above"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "The first character in the file",
+                null,
+                "The name of the file.",
+                "The last character in the file."
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following operations can be performed on the file \"NOTES.TXT\" using the below code?\n",
+            "options": [
+                "Reading",
+                "Writing",
+                "Appending",
+                "Read and Write"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "printf(\"%f %lf\", a, b);",
+                "printf(\"%Lf %f\", a, b);",
+                "printf(\"%Lf %Lf\", a, b);",
+                "printf(\"%f %Lf\", a, b);"
+            ],
+            "answer": "C"
+        }
+    ]

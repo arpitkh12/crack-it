@@ -1,9 +1,20 @@
-<div [ngClass]="selectedValue =='selected' ? correct?'app_correct':'app_wrong' : null">
-	<mat-radio-group class="question-radio-group">
-		<mat-radio-button class="question-radio-button" *ngFor="let val of options" [value]="val" (click)="checkAns(val)">
-			{{val}}		
-		</mat-radio-button>
-	</mat-radio-group>
-</div>
+<!-- <div [ngClass]=" selectedValue=='selected' ? correct? 'app_correct': 'app_wrong' : null "> -->
+<mat-radio-group class="question-radio-group">
+	<mat-radio-button class="question-radio-button" *ngFor="let val of question.options ; let i = index;" [value]="val" (click)="checkAns(val,i) ">
+		{{val}}
+		<!-- <i id="ansCheck"></i> -->
+		<span *ngIf="selectedValue!=null && selectedValue === 'selected' && val === answer && i === indexValue">
+			<i class="fa fa-check" style="color:green;font-size:20px"></i>
+		</span>
+		<span *ngIf="selectedValue!=null && !(val === answer) && i === indexValue">
+			<i class="fa fa-close" style="color:red;font-size:20px"></i>
+		</span>
+	</mat-radio-button>
+</mat-radio-group>
 
-<div class="question-selected-value">Your favorite season is:</div>
+
+<!-- </div> -->
+<div class="question-selected-value ">
+	Answer Selected : {{ansSelected}}
+</div>
+<mat-divider></mat-divider>

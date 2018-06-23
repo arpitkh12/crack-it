@@ -1,0 +1,1764 @@
+[{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "world-geography",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/world-geography/",
+    "list": 
+	[
+        {
+            "question": null,
+            "options": [
+                "shape",
+                "area",
+                "baring",
+                "distance"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "zones of climate",
+                "zones of oceans",
+                "zones of land",
+                "zones of cyclonic depressions"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "larger, more",
+                "larger, less",
+                "smaller, more",
+                "smaller, less"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "deterioration of electronic circuits",
+                "damage of solar cells of spacecraft",
+                "adverse effect on living organisms",
+                "All of the above"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "Canada",
+                "West Africa",
+                "Australia",
+                "North America"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "latitudes",
+                "longitudes",
+                "geographic grids",
+                "None of the above"
+            ],
+            "answer": "B"
+        }
+  ]
+}
+{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "world-geography",
+        "004005"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/world-geography/004005",
+    "list": 
+	[
+        {
+            "question": null,
+            "options": [
+                "China",
+                "Canada",
+                "South Africa",
+                "USA"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "the storage of water between biosphere, hydrosphere, atmosphere and lithosphere",
+                "the movement of water between biosphere, atmosphere, lithosphere and hydrosphere",
+                "both (a) and (b)",
+                "None of the above"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "Basalt plateau",
+                "Cinder cone",
+                "Shield volcanoes",
+                "Composite volcanoes"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "the north-east atlantic region",
+                "the north-east pacific region",
+                "the north-west pacific region",
+                "the south-east asian region"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "Russia",
+                "Vatican City",
+                "Australia",
+                "USA"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "1/2",
+                "1/4th",
+                "1/3rd",
+                "3/4th"
+            ],
+            "answer": "C"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "inventions",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/inventions/",
+    "list": 
+	[
+        {
+            "question": "Who invented the BALLPOINT PEN?",
+            "options": [
+                "Biro Brothers",
+                "Waterman Brothers",
+                "Bicc Brothers",
+                "Write Brothers"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "In which decade was the first solid state integrated circuit demonstrated?",
+            "options": [
+                "1950s",
+                "1960s",
+                "1970s",
+                "1980s"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What J. B. Dunlop invented?",
+            "options": [
+                "Pneumatic rubber tire",
+                "Automobile wheel rim",
+                "Rubber boot",
+                "Model airplanes"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Which scientist discovered the radioactive element radium?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Benjamin Franklin",
+                "Marie Curie"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "When was barb wire patented?",
+            "options": [
+                "1874",
+                "1840",
+                "1895",
+                "1900"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What is the name of the CalTech seismologist who invented the scale used to measure the magnitude of earthquakes?",
+            "options": [
+                "Charles Richter",
+                "Hiram Walker",
+                "Giuseppe Mercalli",
+                "Joshua Rumble"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What Galileo invented?",
+            "options": [
+                "Barometer",
+                "Pendulum clock",
+                "Microscope",
+                "Thermometer"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "This statesman, politican, scholar, inventor, and one of early presidents of USA invented the swivel chair, the spherical sundial, the moldboard plow, and the cipher wheel.",
+            "options": [
+                "George Washington",
+                "Alexander Hamilton",
+                "John Adams",
+                "Thomas Jefferson"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "time-response-of-reactive-circuits",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/time-response-of-reactive-circuits/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "15 V",
+                "12.9 V",
+                "8.6 V",
+                "19.45 V"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "10.3 V",
+                "30 V",
+                "12.09 V",
+                "17.91 V"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                null,
+                null,
+                null,
+                "1.5 ms"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "all the input voltage is across the resistor",
+                "all the input voltage is across the inductor",
+                "63 percent of the input voltage is across the resistor",
+                "63 percent of the input voltage is across the inductor"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "0 V",
+                "12 V",
+                "6.3 V",
+                "7.56 V"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "basic-general-knowledge",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/basic-general-knowledge/",
+    "list": [
+        {
+            "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+            "options": [
+                "largest railway station",
+                "highest railway station",
+                "longest railway station",
+                "None of the above"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Entomology is the science that studies",
+            "options": [
+                "Behavior of human beings",
+                "Insects",
+                "The origin and history of technical and scientific terms",
+                "The formation of rocks"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+            "options": [
+                "Asia",
+                "Africa",
+                "Europe",
+                "Australia"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Garampani sanctuary is located at",
+            "options": [
+                "Junagarh, Gujarat",
+                "Diphu, Assam",
+                "Kohima, Nagaland",
+                "Gangtok, Sikkim"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "For which of the following disciplines is Nobel Prize awarded?",
+            "options": [
+                "Physics and Chemistry",
+                "Physiology or Medicine",
+                "Literature, Peace and Economics",
+                "All of the above"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Hitler party which came into power in 1933 is known as",
+            "options": [
+                "Labour Party",
+                "Nazi Party",
+                "Ku-Klux-Klan",
+                "Democratic Party"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "time-response-of-reactive-circuits",
+        "discussion-671"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/time-response-of-reactive-circuits/discussion-671",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "all the input voltage is across the resistor",
+                "all the input voltage is across the inductor",
+                "63 percent of the input voltage is across the resistor",
+                "63 percent of the input voltage is across the inductor"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "inventions",
+        "011014"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/inventions/011014",
+    "list": [
+        {
+            "question": "In which decade was the ARRL founded?",
+            "options": [
+                "1940s",
+                "1930s",
+                "1920s",
+                "1910s"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Who invented the Seed Drill?",
+            "options": [
+                "Jethro Tull",
+                "Arlo Guthrie",
+                "Woodie Guthrie",
+                "Thomas Hines"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "What drink was invented by Charles Leiper Grigg in 1929?",
+            "options": [
+                "7-Up",
+                "Yoo-Hoo",
+                "Pepsi",
+                "Hawaiian Punch"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "For what is Charles Babbage (1792-1871) remembered?",
+            "options": [
+                "Computers",
+                "Telescopes",
+                "Radio-Telegraphy",
+                "Steam Boating"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Who invented Automobiles using gasoline?",
+            "options": [
+                "Leo H Baekeland",
+                "Karl Benz",
+                "Evangelista Torricelli",
+                "Kirkpatrick Macmillan"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Who invented the battery?",
+            "options": [
+                "John Wilkinson",
+                "Alessandro Volta",
+                "James Hargreaves",
+                "Thomas Edison"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Where were wigs first invented?",
+            "options": [
+                "Japan",
+                "France",
+                "Egypt",
+                "China"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Who was the first person to patent the JET ENGINE?",
+            "options": [
+                "F. Whittle",
+                "C. Lindbergh",
+                "W. Histell",
+                "B. Owings"
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "inductors",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/inductors/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "0.0000008 H",
+                "0.000000008 H",
+                "0.000008 H",
+                "0.00008 mH"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "0.240 mH inductor",
+                "0.000240 mH inductor",
+                "240 mH inductor",
+                "240 H inductor"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "A 2 mH, a 3.3 mH, and a 0.2 mH inductor are connected in series. The total inductance is",
+            "options": [
+                "55 mH",
+                "less than 0.2 mH",
+                "less than 5.5 mH",
+                "5.5 mH"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "A 5 mH, a 4.3 mH, and a 0.6 mH inductor are connected in parallel. The total inductance is",
+            "options": [
+                "9.9 mH",
+                "greater than 5 mH",
+                "9.9 mH or greater than 5 mH",
+                "less than 0.6 mH"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "16 mV",
+                "160 mV",
+                "1.6 mV",
+                "2.5 mV"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "inductors",
+        "125003"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/inductors/125003",
+    "list": [
+        {
+            "question": "The winding resistance of a coil can be increased by",
+            "options": [
+                "increasing the number of turns",
+                "using a thinner wire",
+                "changing the core material",
+                "increasing the number of turns or using thinner wire"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "An inductance of 0.43 mH is smaller than",
+            "options": [
+                null,
+                null,
+                "0.05 H",
+                "0.00043 H"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "An inductor and a resistor are in series with a sine wave voltage source. The frequency is set so that the inductive reactance is equal to the resistance. If the frequency is increased, then",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "The current through a 120 mH coil is changing at a rate of 150 mA/s. The voltage induced across the coil is",
+            "options": [
+                "1.8 mV",
+                "18 mV",
+                "180 mV",
+                "1.25 mV"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "When the current through an inductor decreases, the amount of energy stored in the electromagnetic field",
+            "options": [
+                "increases",
+                "decreases",
+                "remains the same",
+                "doubles"
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "rl-circuits",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/rl-circuits/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "564",
+                "0.564",
+                "6.76",
+                "55.7"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "The voltages in Problem 5 are measured at a certain frequency. To make the resistor voltage less than the inductor voltage, the frequency is",
+            "options": [
+                "increased",
+                "decreased",
+                "doubled",
+                "not a factor"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "18.4 V",
+                "26.0 V",
+                "2 V",
+                "20 V"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Referring to Problem 18, the circuit impedance is",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "should be increased",
+                "should be decreased",
+                "should be constant",
+                "cannot be determined without values"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "civil-engineering",
+        "engineering-economy",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/civil-engineering/engineering-economy/",
+    "list": [
+        {
+            "question": "Which one of the following questions is relevant to the construction estimates :",
+            "options": [
+                "Did the estimators precisely evaluate site conditions ?",
+                "Did the estimators use short cut methods which may be un realistic in their situation ?",
+                "How much money will the contractor's risk, loosing if he Were to submit bid on the raw estimate of cost.",
+                "All of these"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "The ratio obtained by dividing 'quick assests' by current liabilities is called",
+            "options": [
+                "Turnover ratio",
+                "Acid test ratio",
+                "Solvency ratio",
+                "None of these."
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Which one of the following definitions, is correct ?",
+            "options": [
+                "The ratio of total debt to share holder's equity is called 'debt ratio'.",
+                "The ratio debt-to-total assests is called Debt-to-total assest ratio.",
+                "The ratio of earnings before interest and taxes for a particular reporting period to the amount of interest charges for the period, is called interest coverage ratio.",
+                "All of these"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Pick up the element of the cost from the following:",
+            "options": [
+                "direct material",
+                "direct labour",
+                "Over head",
+                "All of these"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "The estimator for definitive estimates must be able :",
+            "options": [
+                "and an all-around construction expert.",
+                "to read the plans and specifications to determine accurate quantities of permanent materials and installed Equipment.",
+                "to express the job material requirements in dimensions suitable for costing and construction supplies."
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "time-response-of-reactive-circuits",
+        "discussion-655"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/time-response-of-reactive-circuits/discussion-655",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "0 V",
+                "12 V",
+                "6.3 V",
+                "7.56 V"
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electronics",
+        "sequential-logic-circuits",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electronics/sequential-logic-circuits/",
+    "list": [
+        {
+            "question": "A ripple counter's speed is limited by the propagation delay of:",
+            "options": [
+                "each flip-flop",
+                "all flip-flops and gates",
+                "the flip-flops only with gates",
+                "only circuit gates"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "To operate correctly, starting a ring counter requires:",
+            "options": [
+                "clearing all the flip-flops",
+                "presetting one flip-flop and clearing all the others",
+                "clearing one flip-flop and presetting all the others",
+                "presetting all the flip-flops"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What type of register would shift a complete binary number in one bit at a time and shift all the stored bits out one bit at a time?",
+            "options": [
+                "PIPO",
+                "SISO",
+                "SIPO",
+                "PISO"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Synchronous counters eliminate the delay problems encountered with asynchronous (ripple) counters because the:",
+            "options": [
+                "input clock pulses are applied only to the first and last stages",
+                "input clock pulses are applied only to the last stage",
+                "input clock pulses are not used to activate any of the counter stages",
+                "input clock pulses are applied simultaneously to each stage"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "One of the major drawbacks to the use of asynchronous counters is that:",
+            "options": [
+                "low-frequency applications are limited because of internal  propagation delays",
+                "high-frequency applications are limited because of internal propagation delays",
+                "Asynchronous counters do not have major drawbacks and are suitable for use in high- and low-frequency counting applications.",
+                "Asynchronous counters do not have propagation delays, which limits their use in high-frequency applications."
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electronics",
+        "logic-gates",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electronics/logic-gates/",
+    "list": [
+        {
+            "question": "The output will be a LOW for any case when one or more inputs are zero in a(n):",
+            "options": [
+                "OR gate",
+                "NOT gate",
+                "AND gate",
+                "NAND gate"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "If a signal passing through a gate is inhibited by sending a low into one of the inputs, and the output is HIGH, the gate is a(n):",
+            "options": [
+                "AND",
+                "NAND",
+                "NOR",
+                "OR"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "A single transistor can be used to build which of the following digital logic gates?",
+            "options": [
+                "AND gates",
+                "OR gates",
+                "NOT gates",
+                "NAND gates"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "The logic gate that will have HIGH or \"1\" at its output when any one of its inputs is HIGH is a(n):",
+            "options": [
+                "OR gate",
+                "AND gate",
+                "NOR gate",
+                "NOT gate"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "How many NAND circuits are contained in a 7400  NAND IC?",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "8"
+            ],
+            "answer": "C"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "non-verbal-reasoning",
+        "image-analysis",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/non-verbal-reasoning/image-analysis/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "inductors",
+        "125002"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/inductors/125002",
+    "list": [
+        {
+            "question": "A sine wave voltage is applied across an inductor. When the frequency of the voltage is decreased, the current",
+            "options": [
+                "is increased",
+                "is decreased",
+                "does not change",
+                "momentarily goes to zero"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Two 10 H inductors are in parallel and the parallel combination is in series with a third 10 H inductor. What is the approximate total reactance when a voltage with a frequency of 7 kHz is applied across the circuit terminals?",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "An ohmmeter is connected across an inductor and the pointer indicates zero ohms. The inductor is",
+            "options": [
+                "good",
+                "open",
+                "shorted",
+                "partly shorted"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "87 mA",
+                "870 mA",
+                "87 A",
+                "337 mA"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "0 V",
+                "6 V",
+                "12 V",
+                "4 V"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "database",
+        "introduction-to-database",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/database/introduction-to-database/",
+    "list": [
+        {
+            "question": "The DBMS acts as an interface between what two components of an enterprise-class database system?",
+            "options": [
+                "Database application and the database",
+                "Data and the database",
+                "The user and the database application",
+                "Database application and SQL"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM?",
+            "options": [
+                "IDMS",
+                "DB2",
+                "dBase-II",
+                "R:base"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "The following are components of a database except ________ .",
+            "options": [
+                "user data",
+                "metadata",
+                "reports",
+                "indexes"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "An application where only one user accesses the database at a given time is an example of a(n) ________ .",
+            "options": [
+                "single-user database application",
+                "multiuser database application",
+                "e-commerce database application",
+                "data mining database application"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "An on-line commercial site such as Amazon.com is an example of a(n) ________ .",
+            "options": [
+                "single-user database application",
+                "multiuser database application",
+                "e-commerce database application",
+                "data mining database application"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "c-programming",
+        "input-output",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/c-programming/input-output/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "\"I am a boy\\r\\n\\0\"",
+                "\"I am a boy\\r\\0\"",
+                "\"I am a boy\\n\\0\"",
+                "\"I am a boy\""
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "open \"source.txt\" in binary mode for reading",
+                "open \"source.txt\" in binary mode for reading and writing",
+                "Create a new file \"source.txt\" for reading and writing",
+                "None of above"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "The first character in the file",
+                null,
+                "The name of the file.",
+                "The last character in the file."
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following operations can be performed on the file \"NOTES.TXT\" using the below code?\n",
+            "options": [
+                "Reading",
+                "Writing",
+                "Appending",
+                "Read and Write"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "printf(\"%f %lf\", a, b);",
+                "printf(\"%Lf %f\", a, b);",
+                "printf(\"%Lf %Lf\", a, b);",
+                "printf(\"%f %Lf\", a, b);"
+            ],
+            "answer": "C"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "inventions",
+        "011013"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/inventions/011013",
+    "list": [
+        {
+            "question": "Who invented Bakelite?",
+            "options": [
+                "Charles Goodyear",
+                "Leo Hendrik Baekeland",
+                "Roy Plunkett",
+                "Henry Ford"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "What toy was invented by Joshua Lionel Cowen around 1900?",
+            "options": [
+                "Raggedy Ann doll",
+                "Yo-yo",
+                "Electric train",
+                "Tinkertoys"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "This African-American woman physical therapist worked with soldiers disabled in World War II. She invented a device that helped the disabled to eat by delivering food through a tube to a mouthpiece.",
+            "options": [
+                "Bessie Blount",
+                "Marjorie Joyner",
+                "Mae Jamison",
+                "Beulah Henry"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "What invention by Garnet Carter made its debut at the Fairyland Inn Resort in Lookout Mountain, Tennessee, in 1927?",
+            "options": [
+                "Miniature golf",
+                "Swimming pool slide",
+                "Ski lift",
+                "Golf cart"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Who invented the phonograph?",
+            "options": [
+                "Thomas Edison",
+                "John Kruesi",
+                "Jules Levy",
+                "Alexander Graham Bell"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "What beverage was invented by Charles Alderton in 1885 in Waco, Texas?",
+            "options": [
+                "Cream soda",
+                "Coca-Cola",
+                "Dr. Pepper",
+                "Sprite"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Who invented fuel cells in 1839?",
+            "options": [
+                "Buckminster Fuller",
+                "Sir William Grove",
+                "Sylvester Graham",
+                "Joyce Hall"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "The ELECTRIC BATTERY, who's charged with inventing this one?",
+            "options": [
+                "Hertz",
+                "Amper",
+                "Galvani",
+                "Volta"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electronics",
+        "sequential-logic-circuits",
+        "discussion-1848"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electronics/sequential-logic-circuits/discussion-1848",
+    "list": [
+        {
+            "question": "One of the major drawbacks to the use of asynchronous counters is that:",
+            "options": [
+                "low-frequency applications are limited because of internal  propagation delays",
+                "high-frequency applications are limited because of internal propagation delays",
+                "Asynchronous counters do not have major drawbacks and are suitable for use in high- and low-frequency counting applications.",
+                "Asynchronous counters do not have propagation delays, which limits their use in high-frequency applications."
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "inductors",
+        "125002"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/inductors/125002",
+    "list": [
+        {
+            "question": "A sine wave voltage is applied across an inductor. When the frequency of the voltage is decreased, the current",
+            "options": [
+                "is increased",
+                "is decreased",
+                "does not change",
+                "momentarily goes to zero"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Two 10 H inductors are in parallel and the parallel combination is in series with a third 10 H inductor. What is the approximate total reactance when a voltage with a frequency of 7 kHz is applied across the circuit terminals?",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "An ohmmeter is connected across an inductor and the pointer indicates zero ohms. The inductor is",
+            "options": [
+                "good",
+                "open",
+                "shorted",
+                "partly shorted"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "87 mA",
+                "870 mA",
+                "87 A",
+                "337 mA"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": null,
+            "options": [
+                "0 V",
+                "6 V",
+                "12 V",
+                "4 V"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "electrical-engineering",
+        "time-response-of-reactive-circuits",
+        "discussion-659"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/electrical-engineering/time-response-of-reactive-circuits/discussion-659",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                null,
+                null,
+                null,
+                "1.5 ms"
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "world-geography",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/world-geography/",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "shape",
+                "area",
+                "baring",
+                "distance"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "zones of climate",
+                "zones of oceans",
+                "zones of land",
+                "zones of cyclonic depressions"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "larger, more",
+                "larger, less",
+                "smaller, more",
+                "smaller, less"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "deterioration of electronic circuits",
+                "damage of solar cells of spacecraft",
+                "adverse effect on living organisms",
+                "All of the above"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "Canada",
+                "West Africa",
+                "Australia",
+                "North America"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "latitudes",
+                "longitudes",
+                "geographic grids",
+                "None of the above"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "database",
+        "data-warehousing",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/database/data-warehousing/",
+    "list": [
+        {
+            "question": "Data scrubbing is which of the following?",
+            "options": [
+                "A process to reject data from the data warehouse and to create the necessary indexes",
+                "A process to load the data in the data warehouse and to create the necessary indexes",
+                "A process to upgrade the quality of data after it is moved into a data warehouse",
+                "A process to upgrade the quality of data before it is moved into a data warehouse"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "The @active data warehouse architecture includes which of the following?",
+            "options": [
+                "At least one data mart",
+                "Data that can extracted from numerous internal and external sources",
+                "Near real-time updates",
+                "All of the above."
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "A goal of data mining includes which of the following?",
+            "options": [
+                "To explain some observed event or condition",
+                "To confirm that data exists",
+                "To analyze data for expected relationships",
+                "To create a new data warehouse"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "An operational system is which of the following?",
+            "options": [
+                "A system that is used to run the business in real time and is based on historical data.",
+                "A system that is used to run the business in real time and is based on current data.",
+                "A system that is used to support decision making and is based on current data.",
+                "A system that is used to support decision making and is based on historical data."
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "A data warehouse is which of the following?",
+            "options": [
+                "Can be updated by end users.",
+                "Contains numerous naming conventions and formats.",
+                "Organized around important subject areas.",
+                "Contains only current data."
+            ],
+            "answer": "D"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "world-geography",
+        "004005"
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/world-geography/004005",
+    "list": [
+        {
+            "question": null,
+            "options": [
+                "China",
+                "Canada",
+                "South Africa",
+                "USA"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "the storage of water between biosphere, hydrosphere, atmosphere and lithosphere",
+                "the movement of water between biosphere, atmosphere, lithosphere and hydrosphere",
+                "both (a) and (b)",
+                "None of the above"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "Basalt plateau",
+                "Cinder cone",
+                "Shield volcanoes",
+                "Composite volcanoes"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "the north-east atlantic region",
+                "the north-east pacific region",
+                "the north-west pacific region",
+                "the south-east asian region"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "Russia",
+                "Vatican City",
+                "Australia",
+                "USA"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": null,
+            "options": [
+                "1/2",
+                "1/4th",
+                "1/3rd",
+                "3/4th"
+            ],
+            "answer": "C"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "general-knowledge",
+        "basic-general-knowledge",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/general-knowledge/basic-general-knowledge/",
+    "list": [
+        {
+            "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+            "options": [
+                "largest railway station",
+                "highest railway station",
+                "longest railway station",
+                "None of the above"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Entomology is the science that studies",
+            "options": [
+                "Behavior of human beings",
+                "Insects",
+                "The origin and history of technical and scientific terms",
+                "The formation of rocks"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+            "options": [
+                "Asia",
+                "Africa",
+                "Europe",
+                "Australia"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Garampani sanctuary is located at",
+            "options": [
+                "Junagarh, Gujarat",
+                "Diphu, Assam",
+                "Kohima, Nagaland",
+                "Gangtok, Sikkim"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "For which of the following disciplines is Nobel Prize awarded?",
+            "options": [
+                "Physics and Chemistry",
+                "Physiology or Medicine",
+                "Literature, Peace and Economics",
+                "All of the above"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Hitler party which came into power in 1933 is known as",
+            "options": [
+                "Labour Party",
+                "Nazi Party",
+                "Ku-Klux-Klan",
+                "Democratic Party"
+            ],
+            "answer": "A"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "aptitude",
+        "stocks-and-shares",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/aptitude/stocks-and-shares/",
+    "list": [
+        {
+            "question": "\nIn order to obtain an income of Rs. 650 from 10% stock at Rs. 96, one must make an investment of:\n",
+            "options": [
+                "Rs. 3100",
+                "Rs. 6240",
+                "Rs. 6500",
+                "Rs. 9600"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                null,
+                null,
+                "15%",
+                null
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "11% stock at 143",
+                null,
+                "Both are equally good",
+                "Cannot be compared, as the total amount of investment is not given."
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "\nA man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is:\n",
+            "options": [
+                "Rs. 12",
+                "Rs. 15",
+                "Rs. 18",
+                "Rs. 21"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "Rs. 5640",
+                "Rs. 5760",
+                "Rs. 7500",
+                "Rs. 9600"
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "aptitude",
+        "logarithm",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/aptitude/logarithm/",
+    "list": [
+        {
+            "question": "Which of the following statements is not correct?",
+            "options": [
+                null,
+                "log (2 + 3) = log (2 x 3)",
+                null,
+                "log (1 + 2 + 3) = log 1 + log 2 + log 3"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                "2.870",
+                "2.967",
+                "3.876",
+                "3.912"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "\n",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "\nIf log 27 = 1.431, then the value of log 9 is:\n",
+            "options": [
+                "0.934",
+                "0.945",
+                "0.954",
+                "0.958"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": null,
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "B"
+        }
+    ]
+},{
+    "splitLink": [
+        "",
+        "aptitude",
+        "alligation-or-mixture",
+        ""
+    ],
+    "baseUrl": "https://www.indiabix.com",
+    "href": "/aptitude/alligation-or-mixture/",
+    "list": [
+        {
+            "question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+            "options": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",
+            "options": [
+                "Rs. 169.50",
+                "Rs. 170",
+                "Rs. 175.50",
+                "Rs. 180"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+            "options": [
+                "10",
+                "20",
+                "21",
+                "25"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3 : 5?\n",
+            "options": [
+                "4 litres, 8 litres",
+                "6 litres, 6 litres",
+                "5 litres, 7 litres",
+                "7 litres, 5 litres"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "\nIn what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?\n",
+            "options": [
+                "3 : 7",
+                "5 : 7",
+                "7 : 3",
+                "7 : 5"
+            ],
+            "answer": "C"
+        }
+    ]
+}
+]

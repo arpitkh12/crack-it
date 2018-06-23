@@ -1,8 +1,38 @@
-<div *ngFor="let q of question; let i = index">
-    {{pageNumber+ i+1}} Question
+<div id="pageLayout">
+
+    <img src="assets/images/title.PNG">
+
+    <div class="navBar">
+        <nav class="docs-navbar-header">
+            <a _ngcontent-c1="" class="docs-navbar-hide-small docs-button mat-button ng-star-inserted" mat-button="" tabindex="0" aria-disabled="false"
+                href="/question/gk">
+                <span class="mat-button-wrapper">General Knowlage</span>
+                <div class="mat-button-ripple mat-ripple" matripple=""></div>
+                <div class="mat-button-focus-overlay"></div>
+            </a>
+            <a _ngcontent-c1="" class="docs-navbar-hide-small docs-button mat-button ng-star-inserted" mat-button="" tabindex="0" aria-disabled="false"
+                href="/electronics">
+                <span class="mat-button-wrapper">Electronics</span>
+                <div class="mat-button-ripple mat-ripple" matripple=""></div>
+                <div class="mat-button-focus-overlay"></div>
+            </a>
+            <a _ngcontent-c1="" class="docs-navbar-hide-small docs-button mat-button ng-star-inserted" mat-button="" tabindex="0" aria-disabled="false"
+                href="/cdk">
+                <span class="mat-button-wrapper">C</span>
+                <div class="mat-button-ripple mat-ripple" matripple=""></div>
+                <div class="mat-button-focus-overlay"></div>
+            </a>
+
+        </nav>
+    </div>
     <br/>
-    <app-question></app-question>
-    <mat-divider></mat-divider>
+    <div class="questionsLayout">
+        <div *ngFor="let question of questions; let i = index">
+            {{pageNumber+ i+1}} {{question.question}}
+            <br/>
+            <app-question [question]="question"></app-question>
+        </div>
+    </div>
 </div>
-<mat-paginator [length]="length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="pageEvent = $event">
+<mat-paginator [length]="length " [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions " (page)="pageEvent=handlePagination($event) ">
 </mat-paginator>
